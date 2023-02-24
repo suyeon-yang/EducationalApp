@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ha sibal</string>
+    <string name="swipe_anywhere_to_start">Swipe Anywhere To Start</string>
+    <string name="settings">settings</string>
+    <string name="are_you_ready">Are You Ready?</string>
+    <string name="highscore_0">Highscore: 0</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="score_0">Score: 0</string>
+    <string name="question_1_x">Question: 1/x</string>
+    <string name="_00_30">00:30</string>
+    <string name="here_will_be_the_question_text_nhere_will_be_the_question_text_nhere_will_be_the_question_text">Here will be the question text\nHere will be the question text\nHere will be the question text</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="confirm">Confirm</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="share">share</string>
+    <string name="todo">TODO</string>
+</resources>
